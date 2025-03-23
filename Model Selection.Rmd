@@ -1,5 +1,5 @@
 ---
-title: "Lab 7"
+title: "Regression Model Selection"
 author: "Chandrima Hazra"
 date: "2024-12-02"
 output: html_document
